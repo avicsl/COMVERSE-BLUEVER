@@ -1,7 +1,7 @@
 # COMVERSE-BLUE USER INTERFACE
 
 **COMVERSE** is an academic e-commerce system designed specifically for Computer Science students. This project emphasizes the importance of efficient and well-structured databases in modern applications, particularly those involving user interaction and real-time data. 
-
+ 
 ## Project Overview
 
 Rather than focusing on user interface design or front-end development, COMVERSE highlights the backend—the database that powers the system. Utilizing **MySQL** as its core database engine, the main objective of this project is to design and implement a well-structured relational database capable of managing:
